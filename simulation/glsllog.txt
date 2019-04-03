@@ -1,0 +1,3 @@
+
+0(11) : error C1008: undefined variable "vColor"
+
